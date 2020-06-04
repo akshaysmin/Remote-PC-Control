@@ -1,4 +1,4 @@
-What it Does:
+WHAT IT DOES:
 Control pc remotely through email (with many limitations)
 
 Run this on a computer with ACTIVE INTERNET connection and use email to communicate with the script
